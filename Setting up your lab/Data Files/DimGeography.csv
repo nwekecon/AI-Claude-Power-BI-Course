@@ -113,7 +113,7 @@ GeographyKey,City,StateProvinceCode,StateProvinceName,CountryRegionCode,EnglishC
 112,Sillery,QC,Quebec,CA,Canada,G1T,6
 113,Ville De'anjou,QC,Quebec,CA,Canada,J1G 2R3,6
 114,Berlin,BB,Brandenburg,DE,Germany,14197,8
-115,Eilenburg,BB,Brandenburg,DE,Germany,04838,8
+115,Eilenburg,BB,Brandenburg,DE,Germany,4838,8
 116,Augsburg,BY,Bayern,DE,Germany,86150,8
 117,Erlangen,BY,Bayern,DE,Germany,91054,8
 118,Frankfurt,BY,Bayern,DE,Germany,91480,8
@@ -126,7 +126,7 @@ GeographyKey,City,StateProvinceCode,StateProvinceName,CountryRegionCode,EnglishC
 125,Berlin,HE,Hessen,DE,Germany,14111,8
 126,Berlin,HE,Hessen,DE,Germany,14129,8
 127,Darmstadt,HE,Hessen,DE,Germany,64283,8
-128,Dresden,HE,Hessen,DE,Germany,01071,8
+128,Dresden,HE,Hessen,DE,Germany,1071,8
 129,Duesseldorf,HE,Hessen,DE,Germany,40434,8
 130,Duesseldorf,HE,Hessen,DE,Germany,40605,8
 131,Frankfurt,HE,Hessen,DE,Germany,60323,8
@@ -156,7 +156,7 @@ GeographyKey,City,StateProvinceCode,StateProvinceName,CountryRegionCode,EnglishC
 155,Bottrop,NW,Nordrhein-Westfalen,DE,Germany,46236,8
 156,Braunschweig,NW,Nordrhein-Westfalen,DE,Germany,38001,8
 157,Hannover,NW,Nordrhein-Westfalen,DE,Germany,30601,8
-158,Leipzig,NW,Nordrhein-Westfalen,DE,Germany,04139,8
+158,Leipzig,NW,Nordrhein-Westfalen,DE,Germany,4139,8
 159,München,NW,Nordrhein-Westfalen,DE,Germany,80074,8
 160,Paderborn,NW,Nordrhein-Westfalen,DE,Germany,33098,8
 161,Solingen,NW,Nordrhein-Westfalen,DE,Germany,42651,8
@@ -391,14 +391,14 @@ GeographyKey,City,StateProvinceCode,StateProvinceName,CountryRegionCode,EnglishC
 390,Loveland,CO,Colorado,US,United States,80537,3
 391,Parker,CO,Colorado,US,United States,80138,3
 392,Westminster,CO,Colorado,US,United States,80030,3
-393,East Haven,CT,Connecticut,US,United States,06512,2
-394,Farmington,CT,Connecticut,US,United States,06032,2
-395,Hamden,CT,Connecticut,US,United States,06518,2
-396,Milford,CT,Connecticut,US,United States,06460,2
-397,New Haven,CT,Connecticut,US,United States,06510,2
-398,Stamford,CT,Connecticut,US,United States,06901,2
-399,Waterbury,CT,Connecticut,US,United States,06710,2
-400,Westport,CT,Connecticut,US,United States,06880,2
+393,East Haven,CT,Connecticut,US,United States,6512,2
+394,Farmington,CT,Connecticut,US,United States,6032,2
+395,Hamden,CT,Connecticut,US,United States,6518,2
+396,Milford,CT,Connecticut,US,United States,6460,2
+397,New Haven,CT,Connecticut,US,United States,6510,2
+398,Stamford,CT,Connecticut,US,United States,6901,2
+399,Waterbury,CT,Connecticut,US,United States,6710,2
+400,Westport,CT,Connecticut,US,United States,6880,2
 401,Altamonte Springs,FL,Florida,US,United States,32701,5
 402,Bradenton,FL,Florida,US,United States,34205,5
 403,Clearwater,FL,Florida,US,United States,33755,5
@@ -451,13 +451,13 @@ GeographyKey,City,StateProvinceCode,StateProvinceName,CountryRegionCode,EnglishC
 450,Newport,KY,Kentucky,US,United States,41071,5
 451,Saint Matthews,KY,Kentucky,US,United States,40207,5
 452,Somerset,KY,Kentucky,US,United States,42501,5
-453,Braintree,MA,Massachusetts,US,United States,02184,2
-454,Norwood,MA,Massachusetts,US,United States,02062,2
-455,Randolph,MA,Massachusetts,US,United States,02368,2
-456,Saugus,MA,Massachusetts,US,United States,01906,2
-457,Wrentham,MA,Massachusetts,US,United States,02093,2
+453,Braintree,MA,Massachusetts,US,United States,2184,2
+454,Norwood,MA,Massachusetts,US,United States,2062,2
+455,Randolph,MA,Massachusetts,US,United States,2368,2
+456,Saugus,MA,Massachusetts,US,United States,1906,2
+457,Wrentham,MA,Massachusetts,US,United States,2093,2
 458,Baltimore,MD,Maryland,US,United States,21201,2
-459,Kittery,ME,Maine,US,United States,03904,2
+459,Kittery,ME,Maine,US,United States,3904,2
 460,Detroit,MI,Michigan,US,United States,48226,3
 461,Holland,MI,Michigan,US,United States,49423,3
 462,Howell,MI,Michigan,US,United States,48843,3
@@ -499,10 +499,10 @@ GeographyKey,City,StateProvinceCode,StateProvinceName,CountryRegionCode,EnglishC
 498,Rocky Mount,NC,North Carolina,US,United States,27803,5
 499,Smithfield,NC,North Carolina,US,United States,27577,5
 500,Winston-Salem,NC,North Carolina,US,United States,27104,5
-501,Hooksett,NH,New Hampshire,US,United States,03106,2
-502,Nashua,NH,New Hampshire,US,United States,03064,2
-503,Plaistow,NH,New Hampshire,US,United States,03865,2
-504,Tilton,NH,New Hampshire,US,United States,03276,2
+501,Hooksett,NH,New Hampshire,US,United States,3106,2
+502,Nashua,NH,New Hampshire,US,United States,3064,2
+503,Plaistow,NH,New Hampshire,US,United States,3865,2
+504,Tilton,NH,New Hampshire,US,United States,3276,2
 505,Las Cruces,NM,New Mexico,US,United States,88001,4
 506,Rio Rancho,NM,New Mexico,US,United States,87124,4
 507,Santa Fe,NM,New Mexico,US,United States,87501,4
@@ -552,9 +552,9 @@ GeographyKey,City,StateProvinceCode,StateProvinceName,CountryRegionCode,EnglishC
 551,Troutdale,OR,Oregon,US,United States,97060,1
 552,W. Linn,OR,Oregon,US,United States,97068,1
 553,Woodburn,OR,Oregon,US,United States,97071,1
-554,Warwick,RI,Rhode Island,US,United States,02889,2
-555,West Kingston,RI,Rhode Island,US,United States,02892,2
-556,Woonsocket,RI,Rhode Island,US,United States,02895,2
+554,Warwick,RI,Rhode Island,US,United States,2889,2
+555,West Kingston,RI,Rhode Island,US,United States,2892,2
+556,Woonsocket,RI,Rhode Island,US,United States,2895,2
 557,Bluffton,SC,South Carolina,US,United States,29910,5
 558,Gaffney,SC,South Carolina,US,United States,29340,5
 559,Myrtle Beach,SC,South Carolina,US,United States,29577,5
